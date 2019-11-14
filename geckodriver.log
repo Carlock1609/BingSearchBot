@@ -1,0 +1,216 @@
+1573715914257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jcyat\\AppData\\Local\\Temp\\rust_mozprofile8V0LTW"
+1573715915154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573715915154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573715915154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573715915155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573715919869	Marionette	INFO	Listening on port 50286
+1573715920097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 180: Error: permitUnload is already running for this tab.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 2456, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 2456, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1573717527746	Marionette	INFO	Stopped listening on port 50286
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1236,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rror: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914, line 1: Error: Script terminated by timeout at:
+ih@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:1:66491
+oh@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:1:69450
+l.oa/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:1:68266
+de/</<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:1:27963
+ae/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:1:27505
+Jd/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:1:24731
+ae@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:1:27813
+de/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:1:27936
+Jd/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:1:24775
+
+JavaScript warning: https://z.moatads.com/essencedigitalemeav2553596143685/moatad.js#moatClientLevel1=23405477&moatClientLevel2=1435144&moatClientLevel3=258574457&moatClientLevel4=123690512&zMoatG=ct=US&st=OR&city=13312&dma=202&zp=&bw=4&moatVCE=0&ord=3592963925&zMoatADV=4479481&zMoatENV=j&zMoatAUCID=&zMoatABH=0, line 12: Error: Script terminated by timeout at:
+a.b.forEach@https://z.moatads.com/essencedigitalemeav2553596143685/moatad.js#moatClientLevel1=23405477&moatClientLevel2=1435144&moatClientLevel3=258574457&moatClientLevel4=123690512&zMoatG=ct=US&st=OR&city=13312&dma=202&zp=&bw=4&moatVCE=0&ord=3592963925&zMoatADV=4479481&zMoatENV=j&zMoatAUCID=&zMoatABH=0:12:346
+a.f.m@https://z.moatads.com/essencedigitalemeav2553596143685/moatad.js#moatClientLevel1=23405477&moatClientLevel2=1435144&moatClientLevel3=258574457&moatClientLevel4=123690512&zMoatG=ct=US&st=OR&city=13312&dma=202&zp=&bw=4&moatVCE=0&ord=3592963925&zMoatADV=4479481&zMoatENV=j&zMoatAUCID=&zMoatABH=0:227:289
+a.ap.a@https://z.moatads.com/essencedigitalemeav2553596143685/moatad.js#moatClientLevel1=23405477&moatClientLevel2=1435144&moatClientLevel3=258574457&moatClientLevel4=123690512&zMoatG=ct=US&st=OR&city=13312&dma=202&zp=&bw=4&moatVCE=0&ord=3592963925&zMoatADV=4479481&zMoatENV=j&zMoatAUCID=&zMoatABH=0:238:143
+a.f.s@https://z.moatads.com/essencedigitalemeav2553596143685/moatad.js#moatClientLevel1=23405477&moatClientLevel2=1435144&moatClientLevel3=258574457&moatClientLevel4=123690512&zMoatG=ct=US&st=OR&city=13312&dma=202&zp=&bw=4&moatVCE=0&ord=3592963925&zMoatADV=4479481&zMoatENV=j&zMoatAUCID=&zMoatABH=0:239:201
+a.f.al@https://z.moatads.com/essencedigitalemeav2553596143685/moatad.js#moatClientLevel1=23405477&moatClientLevel2=1435144&moatClientLevel3=258574457&moatClientLevel4=123690512&zMoatG=ct=US&st=OR&city=13312&dma=202&zp=&bw=4&moatVCE=0&ord=3592963925&zMoatADV=4479481&zMoatENV=j&zMoatAUCID=&zMoatABH=0:242:398
+a.f.am@https://z.moatads.com/essencedigitalemeav2553596143685/moatad.js#moatClientLevel1=23405477&moatClientLevel2=1435144&moatClientLevel3=258574457&moatClientLevel4=123690512&zMoatG=ct=US&st=OR&city=13312&dma=202&zp=&bw=4&moatVCE=0&ord=3592963925&zMoatADV=4479481&zMoatENV=j&zMoatAUCID=&zMoatABH=0:243:23
+Ea@https://z.moatads.com/essencedigitalemeav2553596143685/moatad.js#moatClientLevel1=23405477&moatClientLevel2=1435144&moatClientLevel3=258574457&moatClientLevel4=123690512&zMoatG=ct=US&st=OR&city=13312&dma=202&zp=&bw=4&moatVCE=0&ord=3592963925&zMoatADV=4479481&zMoatENV=j&zMoatAUCID=&zMoatABH=0:4:453
+Da@https://z.moatads.com/essencedigitalemeav2553596143685/moatad.js#moatClientLevel1=23405477&moatClientLevel2=1435144&moatClientLevel3=258574457&moatClientLevel4=123690512&zMoatG=ct=US&st=OR&city=13312&dma=202&zp=&bw=4&moatVCE=0&ord=3592963925&zMoatADV=4479481&zMoatENV=j&zMoatAUCID=&zMoatABH=0:2:104
+l/a.xa.sode.prototype.zaxs@https://z.moatads.com/essencedigitalemeav2553596143685/moatad.js#moatClientLevel1=23405477&moatClientLevel2=1435144&moatClientLevel3=258574457&moatClientLevel4=123690512&zMoatG=ct=US&st=OR&city=13312&dma=202&zp=&bw=4&moatVCE=0&ord=3592963925&zMoatADV=4479481&zMoatENV=j&zMoatAUCID=&zMoatABH=0:102:505
+@https://z.moatads.com/essencedigitalemeav2553596143685/moatad.js#moatClientLevel1=23405477&moatClientLevel2=1435144&moatClientLevel3=258574457&moatClientLevel4=123690512&zMoatG=ct=US&st=OR&city=13312&dma=202&zp=&bw=4&moatVCE=0&ord=3592963925&zMoatADV=4479481&zMoatENV=j&zMoatAUCID=&zMoatABH=0:552:535
+@https://z.moatads.com/essencedigitalemeav2553596143685/moatad.js#moatClientLevel1=23405477&moatClientLevel2=1435144&moatClientLevel3=258574457&moatClientLevel4=123690512&zMoatG=ct=US&st=OR&city=13312&dma=202&zp=&bw=4&moatVCE=0&ord=3592963925&zMoatADV=4479481&zMoatENV=j&zMoatAUCID=&zMoatABH=0:553:65
+
+[Child 10956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10956,[Parent 6496, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4648, Chrome_[Parent 6496, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6548, Chrome_ChildThread][Parent 6496, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chro[Child 9248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 92[Parent 6496, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4980, JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1573716542793	Marionette	INFO	Stopped listening on port 50383
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573717152977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jcyat\\AppData\\Local\\Temp\\rust_mozprofileKc3wgu"
+1573717154070	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573717154070	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573717154071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573717154071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[Parent 2568, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3644, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1573717159167	Marionette	INFO	Listening on port 50858
+1573717159294	Marionette	WARN	TLS certificate errors will be ignored for this session
+[[Child 6148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ip[Child 8068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8068, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 34[Parent 2568, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2140,JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1573717227526	Marionette	INFO	Stopped listening on port 50858
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 12020,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ild 5388, Chrome_Ch[Parent 9396, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12208, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 121573717218643	Marionette	INFO	Stopped listening on port 50909
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573717190747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 375)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:375:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:368:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:410:16\nwrite@resource:///modules/sessionstore/SessionFile.jsm:448:24\nwrite@resource:///modules/sessionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:16\n"
+1573717199729	Marionette	INFO	Listening on port 50949
+1573717199802	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://services-settings/RemoteSettingsClient.jsm, line 149: Error: Unknown callback
+[ChilJavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 680: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: NS_ERROR_UNEXPECTED: 
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: , line 0: NS_ERROR_UNEXPECTED: 
+[[Parent 9860, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6500, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1573717218146	Marionette	INFO	Stopped listening on port 50949
+[GPU 12180, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1573717270944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jcyat\\AppData\\Local\\Temp\\rust_mozprofileZXi19R"
+1573717273530	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1573717273530	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1573717273530	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1573717273530	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1573717278400	Marionette	INFO	Listening on port 51015
+1573717278863	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+JavaScript error: https://www.bing.com/, line 17: ReferenceError: sj_we is not defined
+[Parent 2112, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 9052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 905[Parent 2112, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 683))
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1573717520903	Marionette	INFO	Stopped listening on port 51015
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 11
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ssionstore/SessionFile.jsm:75:32\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:360:24\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:294:17\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:344:10\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:191:14\ncallback@resource://gre/modules/Timer.jsm:125:16\n"
+1573717444896	Marionette	INFO	Listening on port 51128
+1573717445283	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10428, Chrome_ChildThread] WA[Child 7704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1573490477/bui[Parent 10676, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1573490477/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11573717523251	Marionette	INFO	Stopped listening on port 51128
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 9324, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
