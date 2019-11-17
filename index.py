@@ -27,4 +27,4 @@ while counter <= 100: # The word and keys are in the loop so the browser only op
     searchbar.send_keys(random_word) # inputs word
     searchbar.send_keys(Keys.RETURN) # submits
     time.sleep(1) # Giving the script time to load for some reason makes it work
-    
+    counter+=1
