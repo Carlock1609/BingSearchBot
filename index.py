@@ -4,6 +4,9 @@ import string
 import random
 import time
 
+# COMPLETED
+# Figure out a way for this bot to automatically start everyday
+
 counter = 0
 random_word = list(string.ascii_lowercase)
 
